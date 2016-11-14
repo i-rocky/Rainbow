@@ -23,3 +23,5 @@ Animated rainbow text generator
  });
  rainbow.start();
  ```
+
+[Live Example: http://rainbow.rocky.pw](http://rainbow.rocky.pw)
