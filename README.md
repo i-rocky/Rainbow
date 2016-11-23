@@ -19,7 +19,7 @@ Animated rainbow text generator
 ```
  var rainbow = new Rainbow;
  rainbow.setup({
-   selector: '.text
+   selector: '.text'
  });
  rainbow.start();
  ```
