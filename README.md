@@ -24,4 +24,4 @@ Animated rainbow text generator
  rainbow.start();
  ```
 
-[DEMO](http://3rp.me/Rainbow/)
+[DEMO](http://i-rocky.github.io/Rainbow/)
